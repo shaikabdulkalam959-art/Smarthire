@@ -1,0 +1,2499 @@
+CATEGORY: Data Science
+RESUME:
+Data scientist with a public Kaggle profile (top 10% in two competitions). Experienced in feature selection, stacking, blending, and cross-validation strategies for tabular data.
+---
+
+CATEGORY: Data Science
+RESUME:
+Data science professional who designed A/B testing frameworks saving the marketing team 30% budget waste. Comfortable with hypothesis testing, Python, pandas, and Tableau dashboards.
+---
+
+CATEGORY: Data Science
+RESUME:
+Data scientist with expertise in natural language processing — text preprocessing, TF-IDF vectorisation, and topic modelling with LDA. Strong Python and scikit-learn skills.
+---
+
+CATEGORY: Data Science
+RESUME:
+Applied data scientist with background in healthcare analytics. Built survival analysis models and patient risk scores using Cox regression and logistic regression in Python. Strong SQL and visualization skills.
+---
+
+CATEGORY: Data Science
+RESUME:
+Results-driven data scientist who led cross-functional analytics projects at a 200-person fintech startup. Delivered weekly Python and SQL reports to C-suite. Strong communicator with technical and business stakeholders.
+---
+
+CATEGORY: Data Science
+RESUME:
+Quantitative analyst turned data scientist. Built alpha factor models using machine learning on financial time-series data. Skilled in Python, pandas, NumPy, and statistics.
+---
+
+CATEGORY: Data Science
+RESUME:
+Analytics-focused data scientist who improved product recommendations by 25% using collaborative filtering. Background in mathematics, statistics, and Python programming.
+---
+
+CATEGORY: Data Science
+RESUME:
+Data scientist experienced in geospatial analytics and mapping. Used clustering algorithms (DBSCAN, K-Means) to identify high-value service zones. Python, pandas, GeoPandas.
+---
+
+CATEGORY: Data Science
+RESUME:
+Self-taught data scientist with a portfolio of three end-to-end ML projects: customer segmentation (K-Means), sentiment analysis (Naive Bayes), and time-series forecasting (ARIMA). Python, scikit-learn, SQL.
+---
+
+CATEGORY: Data Science
+RESUME:
+Mid-level data scientist with 4 years in e-commerce analytics. Specialised in customer lifetime value modelling using survival analysis and regression in Python. Solid SQL and business acumen.
+---
+
+CATEGORY: Data Science
+RESUME:
+Data science consultant who deployed three production ML models for retail clients: demand forecasting, inventory optimisation, and customer segmentation. Python, scikit-learn, Docker.
+---
+
+CATEGORY: Data Science
+RESUME:
+Predictive modelling specialist with experience in XGBoost, LightGBM, and neural networks using scikit-learn. Reduced cart abandonment by 18% through propensity modelling. BSc Mathematics.
+---
+
+CATEGORY: Data Science
+RESUME:
+Experienced data scientist who developed NLP text classification models using TF-IDF and logistic regression. Strong background in statistics, A/B testing, and Python. Reduced false positive rate by 22% in fraud detection project.
+---
+
+CATEGORY: Data Science
+RESUME:
+Data scientist focused on model explainability and fairness. Used SHAP values to audit a credit scoring model and presented findings to compliance team. Python, scikit-learn, pandas.
+---
+
+CATEGORY: Data Science
+RESUME:
+Python-first data scientist skilled in experimental design, feature engineering, and ensemble methods. Used random forests and gradient boosting on imbalanced datasets. Confident with Jupyter, pandas, matplotlib, and seaborn.
+---
+
+CATEGORY: Data Science
+RESUME:
+Entry-level data scientist with strong academic background in statistics and machine learning. Completed projects in image classification (CNN), sentiment analysis, and customer churn prediction.
+---
+
+CATEGORY: Data Science
+RESUME:
+Research-background data scientist skilled in Bayesian inference and probabilistic models. Converted R scripts to Python pipelines and improved model accuracy by 15% through better feature engineering.
+---
+
+CATEGORY: Data Science
+RESUME:
+Data scientist specialising in recommendation systems. Built collaborative filtering models using matrix factorization and content-based filtering with TF-IDF similarity. Experience with Python, pandas, and large CSVs.
+---
+
+CATEGORY: Data Science
+RESUME:
+Data scientist with 3 years building end-to-end machine learning pipelines in Python. Proficient in scikit-learn, pandas, NumPy, and SQL. Built a churn prediction model achieving 87% AUC-ROC. MSc Data Science, University of Pune.
+---
+
+CATEGORY: Data Science
+RESUME:
+Junior data scientist with hands-on experience in regression, classification, and clustering problems. Familiar with scikit-learn pipelines, cross-validation, and hyperparameter tuning using GridSearchCV.
+---
+
+CATEGORY: HR
+RESUME:
+Training and development specialist who built an e-learning platform for compliance training. Increased course completion rates from 55% to 92%.
+---
+
+CATEGORY: HR
+RESUME:
+Payroll administrator with experience processing multi-state payroll for 500+ employees. Proficient in HR software, tax compliance, and benefits administration.
+---
+
+CATEGORY: HR
+RESUME:
+Senior HR business partner experienced in organisational design, workforce planning, and performance management. Collaborated with leadership to improve retention by 20%.
+---
+
+CATEGORY: HR
+RESUME:
+Compensation and benefits analyst who benchmarked salaries against market data and redesigned the bonus structure, improving talent retention by 18%.
+---
+
+CATEGORY: HR
+RESUME:
+HR assistant with 2 years supporting a fast-growing startup. Managed job postings, scheduled interviews, coordinated onboarding, and maintained employee records.
+---
+
+CATEGORY: HR
+RESUME:
+HR professional with strong communication and interpersonal skills. Conducted stay interviews, administered engagement surveys, and implemented action plans.
+---
+
+CATEGORY: HR
+RESUME:
+Talent acquisition specialist skilled in full-cycle recruiting: job posting, sourcing, screening, interviewing, and offer negotiation. Reduced time-to-hire from 45 to 28 days through structured interview processes.
+---
+
+CATEGORY: HR
+RESUME:
+HRIS analyst experienced in configuring, maintaining, and reporting from Workday and SAP HR systems. Reduced manual HR processes by 40% through automation.
+---
+
+CATEGORY: HR
+RESUME:
+Recruitment specialist with 5 years sourcing technical talent (software engineers, data scientists). Experienced with LinkedIn Recruiter, ATS tools, and Boolean search strategies.
+---
+
+CATEGORY: HR
+RESUME:
+HR business partner supporting engineering and product teams. Partnered with managers on career development, succession planning, and talent reviews.
+---
+
+CATEGORY: HR
+RESUME:
+HR professional with expertise in learning and development. Designed and delivered onboarding programmes and soft-skills training workshops for 150+ employees.
+---
+
+CATEGORY: HR
+RESUME:
+HR generalist with 4 years managing recruitment, onboarding, and employee relations for a 300-person technology company. Proficient in HRMS, payroll processing, and employment law compliance.
+---
+
+CATEGORY: HR
+RESUME:
+HR coordinator skilled in managing HRMS records, administering payroll, and conducting exit interviews. Strong attention to detail and confidentiality.
+---
+
+CATEGORY: HR
+RESUME:
+Employee relations specialist who resolved complex workplace disputes, conducted investigations, and drafted HR policies in line with labour laws.
+---
+
+CATEGORY: HR
+RESUME:
+Recruitment coordinator experienced in high-volume hiring for BPO and retail environments. Managed candidate pipelines, coordinated assessment centres, and handled offer letters.
+---
+
+CATEGORY: HR
+RESUME:
+HR specialist focused on diversity, equity, and inclusion. Launched a mentorship programme increasing representation of women in senior roles by 12%.
+---
+
+CATEGORY: HR
+RESUME:
+HR manager overseeing a team of 5 HR professionals. Responsible for strategic workforce planning, talent management, and compliance for a 600-person manufacturing firm.
+---
+
+CATEGORY: HR
+RESUME:
+Industrial relations specialist with experience handling union negotiations, grievance procedures, and disciplinary hearings at a large manufacturing plant.
+---
+
+CATEGORY: HR
+RESUME:
+People operations manager who redesigned the performance review cycle, introduced OKRs, and improved employee satisfaction scores by 15 points.
+---
+
+CATEGORY: HR
+RESUME:
+Junior HR executive with experience in joining formalities, document verification, HRMS data entry, and monthly attendance processing.
+---
+
+CATEGORY: Advocate
+RESUME:
+Constitutional law specialist with expertise in public interest litigation and fundamental rights cases. Published two academic papers on judicial review.
+---
+
+CATEGORY: Advocate
+RESUME:
+Advocate with 6 years of practice in civil and commercial litigation at the Delhi High Court. Experienced in drafting pleadings, appearing at hearings, and advising corporate clients on contracts and disputes.
+---
+
+CATEGORY: Advocate
+RESUME:
+Advocate with experience in cyber law, IT Act compliance, and data privacy matters. Advised technology companies on personal data protection obligations.
+---
+
+CATEGORY: Advocate
+RESUME:
+Corporate legal counsel specialising in mergers and acquisitions, due diligence, and contract drafting. Advised clients on regulatory compliance and IP protection.
+---
+
+CATEGORY: Advocate
+RESUME:
+Criminal appellate lawyer with experience before the Supreme Court of India. Specialises in bail matters, sentence appeals, and constitutional challenges.
+---
+
+CATEGORY: Advocate
+RESUME:
+Labour law advocate with expertise in employment disputes, wrongful termination cases, and collective bargaining. Represented both employers and employees before labour courts.
+---
+
+CATEGORY: Advocate
+RESUME:
+Taxation lawyer advising HNIs and corporates on direct and indirect tax planning, GST compliance, and tax dispute resolution before ITAT and High Courts.
+---
+
+CATEGORY: Advocate
+RESUME:
+Intellectual property lawyer who has filed and prosecuted over 200 patent and trademark applications. Experienced in IP infringement cases and licensing negotiations.
+---
+
+CATEGORY: Advocate
+RESUME:
+Legal associate at a boutique M&A firm. Conducted due diligence reviews, drafted SPA and SHA agreements, and coordinated closings for transactions worth up to ₹500 Cr.
+---
+
+CATEGORY: Advocate
+RESUME:
+Advocate with expertise in arbitration and alternative dispute resolution. Handled ICC and SIAC arbitrations as both counsel and arbitrator.
+---
+
+CATEGORY: Advocate
+RESUME:
+Legal professional with 4 years in a top-tier law firm, advising on real estate transactions, lease agreements, and property due diligence.
+---
+
+CATEGORY: Advocate
+RESUME:
+Environmental law practitioner who has litigated pollution, forest clearance, and EIA-related matters before the National Green Tribunal.
+---
+
+CATEGORY: Advocate
+RESUME:
+Banking and finance lawyer experienced in loan documentation, security creation, SARFAESI proceedings, and debt restructuring for scheduled commercial banks.
+---
+
+CATEGORY: Advocate
+RESUME:
+Litigation attorney skilled in drafting legal notices, written arguments, and appeals. Consistent win rate of 70%+ in civil recovery matters at district court level.
+---
+
+CATEGORY: Advocate
+RESUME:
+Junior advocate with 2 years of experience in a litigation-focused firm. Regularly drafts plaints, written statements, and applications in civil and commercial matters.
+---
+
+CATEGORY: Advocate
+RESUME:
+Criminal defence lawyer with a strong track record in trial advocacy. Skilled in cross-examination, evidence analysis, and bail applications. LLB from National Law University.
+---
+
+CATEGORY: Advocate
+RESUME:
+In-house legal counsel for a fintech startup. Managed regulatory filings, drafted terms of service, privacy policies, and vendor contracts.
+---
+
+CATEGORY: Advocate
+RESUME:
+Insurance litigation specialist representing leading insurers in motor accident claims, health insurance disputes, and fire/marine insurance matters.
+---
+
+CATEGORY: Advocate
+RESUME:
+Advocate specialising in consumer protection cases, having represented over 500 clients before consumer forums. Strong knowledge of the Consumer Protection Act.
+---
+
+CATEGORY: Advocate
+RESUME:
+Family law advocate experienced in divorce proceedings, child custody, and property settlement disputes. Known for empathetic client communication and efficient case management.
+---
+
+CATEGORY: Arts
+RESUME:
+Animation artist with 4 years in a production studio. Skilled in 2D character animation, After Effects, and storytelling through visual sequences.
+---
+
+CATEGORY: Arts
+RESUME:
+Creative professional with 5 years of experience in graphic design, illustration, and visual storytelling. Proficient in Adobe Photoshop, Illustrator, and InDesign.
+---
+
+CATEGORY: Arts
+RESUME:
+Cultural programme coordinator at a metropolitan arts centre. Curated exhibitions, managed artist residencies, and coordinated public engagement events.
+---
+
+CATEGORY: Arts
+RESUME:
+Creative writing professional who has published one novel and contributed essays to literary journals. Experience in editing, content development, and creative workshops.
+---
+
+CATEGORY: Arts
+RESUME:
+Fashion stylist and visual merchandiser with experience dressing talent for editorial shoots, advertising campaigns, and celebrity events.
+---
+
+CATEGORY: Arts
+RESUME:
+Ceramics artist and art educator. Runs a studio pottery workshop and teaches wheel-throwing and hand-building techniques to adult learners.
+---
+
+CATEGORY: Arts
+RESUME:
+Muralist and public art practitioner commissioned for large-scale wall installations across three cities. Experienced in aerosol, acrylic, and mosaic techniques.
+---
+
+CATEGORY: Arts
+RESUME:
+Art therapist with a postgraduate degree in psychology and training in expressive arts therapy. Worked with trauma survivors and children with learning disabilities.
+---
+
+CATEGORY: Arts
+RESUME:
+Photography professional specialising in portrait, commercial, and documentary photography. Published in three national magazines. Expert in Lightroom and Photoshop post-processing.
+---
+
+CATEGORY: Arts
+RESUME:
+Junior graphic designer with 1 year of experience in a branding agency. Proficient in Canva, Adobe Illustrator, and social media asset creation.
+---
+
+CATEGORY: Arts
+RESUME:
+Content creator and digital artist with a following of 45,000 on Instagram. Creates original illustrations, typographic art, and motion graphics for brands.
+---
+
+CATEGORY: Arts
+RESUME:
+Textile designer with expertise in surface pattern design, weave structures, and CAD textile software. Collaborated with fashion brands to develop seasonal collections.
+---
+
+CATEGORY: Arts
+RESUME:
+Interior designer with a focus on residential spaces. Skilled in space planning, materials selection, AutoCAD, and 3D visualisation tools.
+---
+
+CATEGORY: Arts
+RESUME:
+Performing arts professional with training in Bharatanatyam and contemporary dance. Choreographed for three theatre productions and conducted workshops for schools.
+---
+
+CATEGORY: Arts
+RESUME:
+Graphic novelist and illustrator who has completed two self-published graphic novel series. Experienced in sequential art storytelling and digital inking.
+---
+
+CATEGORY: Arts
+RESUME:
+Video editor and motion graphics designer with 3 years experience in post-production for YouTube channels, corporate videos, and short-form content.
+---
+
+CATEGORY: Arts
+RESUME:
+Theatre director and playwright with 10 years experience producing stage productions. Trained at the National School of Drama.
+---
+
+CATEGORY: Arts
+RESUME:
+Music composer and sound designer for film and advertising. Composed background scores for two short films and over 30 television commercials.
+---
+
+CATEGORY: Arts
+RESUME:
+Fine arts graduate specialising in oil painting and mixed media. Exhibited at three group shows in Mumbai and Bengaluru. Freelance illustrator for publishers and brands.
+---
+
+CATEGORY: Arts
+RESUME:
+Art director with 7 years in advertising. Led visual concept development for FMCG campaigns across print, digital, and OOH. Managed a team of 4 designers.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Web designer with a background in print design. Transitioned to digital and now specialises in editorial web design, magazine-style layouts, and typography.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Senior web designer with 6 years leading design teams in digital agencies. Expert in design systems, Figma components, and cross-functional collaboration with developers.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Mobile-first web designer experienced in designing for iOS and Android web experiences. Proficient in responsive frameworks and touch gesture design patterns.
+---
+
+CATEGORY: Web Designing
+RESUME:
+UX researcher and information architect with experience conducting usability testing, card sorting, and tree testing to optimise navigation and content hierarchy.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Frontend web designer experienced in building pixel-perfect layouts from Figma designs using HTML, CSS, and Bootstrap. Strong eye for typography and colour theory.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Portfolio website: designed and shipped personal projects in HTML, CSS, and vanilla JavaScript. Interested in creative coding and generative design.
+---
+
+CATEGORY: Web Designing
+RESUME:
+UI/UX designer who conducted user research, created wireframes, and designed high-fidelity prototypes for SaaS products. Improved user retention by 22% through redesign.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Web designer with 4 years creating responsive, accessible websites using HTML5, CSS3, and JavaScript. Proficient in Figma, Adobe XD, and cross-browser compatibility.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Interaction designer focused on micro-interactions and animation. Used Framer and CSS to create smooth transitions that reduced perceived load time.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Full-stack oriented web designer comfortable with HTML, CSS, JavaScript, and basic PHP/MySQL backends. Delivered 20+ freelance websites for small businesses.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Freelance web designer and brand identity specialist. Creates end-to-end visual identity systems including logos, colour palettes, and website designs.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Web designer specialising in landing page optimisation. A/B tested headline, layout, and CTA variants to improve email signup rates by 35%.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Creative web designer specialising in e-commerce UX. Designed product pages and checkout flows that increased conversion rates by 18% for a fashion retailer.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Web designer with expertise in accessibility (WCAG 2.1 AA). Audited and remediated accessibility issues across a 200-page government website.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Web designer who managed a complete brand redesign for a 50-person consultancy. Delivered new website, style guide, and component library.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Web designer and SEO-aware developer. Built websites with semantic HTML, structured data, and Core Web Vitals optimisation. Improved Lighthouse scores from 60 to 95.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Junior web designer with 1.5 years experience in an agency setting. Skilled in HTML, CSS, Figma, and responsive design. Delivered 15 client websites on time.
+---
+
+CATEGORY: Web Designing
+RESUME:
+E-learning web designer experienced in creating SCORM-compliant course templates, interactive exercises, and accessible digital learning materials.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Motion design focused web professional. Created CSS animations, SVG illustrations, and micro-interactions that enhanced user engagement on two SaaS products.
+---
+
+CATEGORY: Web Designing
+RESUME:
+Conversion rate optimisation specialist with a web design background. Uses heatmaps, session recordings, and user feedback to iteratively improve website performance.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Thermal and fluids engineer with experience in heat exchanger design, pipe flow simulation, and energy balance calculations using MATLAB and ANSYS Fluent.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Mechanical engineer with 4 years in automotive component manufacturing. Experienced in CAD design using SolidWorks, FEA analysis, and GD&T.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Design engineer specialising in product development. Led the design and prototyping of an industrial conveyor system from concept to production, cutting lead time by 30%.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Aerospace structural engineer with experience in aluminium and composite structure design for unmanned aerial vehicles. Familiar with aerodynamic load analysis.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+R&D mechanical engineer who filed 2 patents for novel mechanisms in medical devices. Strong background in mechanism design and materials science.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Tool and die designer with expertise in progressive dies, injection moulds, and jig and fixture design using CATIA V5.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Mechanical engineer with expertise in finite element analysis (ANSYS, Abaqus) and structural simulation. Validated designs to ASME and DIN standards.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Robotics and automation engineer with mechanical design experience in robotic end-effectors, grippers, and automated assembly lines.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+HVAC design engineer with experience in cooling system design, thermal analysis, and equipment selection for commercial and industrial buildings.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Mechanical engineer with 5 years in oil and gas. Experienced in pipeline design, pressure vessel calculations to ASME Section VIII, and material selection.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Maintenance engineer responsible for planned preventive maintenance, breakdown analysis, and reliability improvement for CNC machines and press tools.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Process engineer with expertise in lean manufacturing, Six Sigma (Green Belt certified), and production line optimisation. Reduced scrap rate by 25% in 18 months.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Quality engineer with knowledge of SPC, measurement system analysis (MSA), PPAP, and APQP processes in an automotive Tier-1 supply chain.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Energy auditor and mechanical engineer who identified and implemented energy-saving measures saving 15% on annual utility costs for a textile mill.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Mechanical project engineer who managed a ₹2 Cr machinery installation project — scope definition, vendor management, commissioning, and handover.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Maintenance and reliability engineer who implemented an RCM programme, improving plant availability from 87% to 94% within one year.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Fresh mechanical engineering graduate with strong fundamentals in thermodynamics, fluid mechanics, and machine design. Proficient in SolidWorks and AutoCAD.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Production planning engineer responsible for MRP, capacity planning, and shop floor scheduling in a precision engineering firm. Proficient in SAP MM/PP.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Marine engineer with experience in ship propulsion systems, marine diesel engines, and vessel maintenance planning. STCW certified.
+---
+
+CATEGORY: Mechanical Engineer
+RESUME:
+Junior mechanical engineer with hands-on experience in sheet metal fabrication, welding, and assembly. Proficient in AutoCAD and SolidWorks.
+---
+
+CATEGORY: Sales
+RESUME:
+Pre-sales consultant with technical depth in cloud solutions. Delivered over 200 product demonstrations and RFP responses to enterprise prospects.
+---
+
+CATEGORY: Sales
+RESUME:
+Sales executive with 5 years in B2B software sales. Consistently achieved 120%+ of quarterly targets. Expert in CRM (Salesforce), pipeline management, and solution selling.
+---
+
+CATEGORY: Sales
+RESUME:
+Channel sales manager who built a 60-partner distribution network across South India, driving 40% of total company revenue.
+---
+
+CATEGORY: Sales
+RESUME:
+Automotive sales consultant specialising in luxury vehicles. Achieved 98% customer satisfaction scores and highest accessory attachment rate in the dealership.
+---
+
+CATEGORY: Sales
+RESUME:
+Territory sales manager for an FMCG company covering 300+ retail outlets. Managed distributor relationships, trade promotions, and shelf visibility initiatives.
+---
+
+CATEGORY: Sales
+RESUME:
+VP of Sales responsible for leading a 25-person sales team to ₹50 Cr ARR. Introduced MEDDIC qualification framework and territory planning processes.
+---
+
+CATEGORY: Sales
+RESUME:
+Retail sales associate with 3 years on the floor. Consistently top-3 in monthly revenue ranking. Skilled in product knowledge, cross-selling, and customer relationship building.
+---
+
+CATEGORY: Sales
+RESUME:
+Medical sales representative promoting pharmaceutical and medical device products to hospitals and clinics. Built relationships with 80+ key opinion leaders.
+---
+
+CATEGORY: Sales
+RESUME:
+Real estate sales professional with 4 years selling residential and commercial properties. Closed transactions worth ₹30 Cr in FY24. Expert in site visits and negotiation.
+---
+
+CATEGORY: Sales
+RESUME:
+Sales trainer and enablement specialist who designed onboarding programmes reducing ramp time for new AEs from 6 months to 3.5 months.
+---
+
+CATEGORY: Sales
+RESUME:
+Digital advertising sales executive selling display, search, and programmatic solutions to SME and enterprise advertisers. Managed a book of ₹6 Cr annual billings.
+---
+
+CATEGORY: Sales
+RESUME:
+Insurance sales professional with IRDA certification. Sold life, health, and motor insurance policies. Top performer in annual MDRT qualifying round.
+---
+
+CATEGORY: Sales
+RESUME:
+Sales operations analyst who built Salesforce dashboards, automated pipeline reports, and identified bottlenecks that reduced average sales cycle by 12 days.
+---
+
+CATEGORY: Sales
+RESUME:
+Junior sales associate with 1 year experience in retail banking, cross-selling savings accounts, credit cards, and personal loans. Strong product knowledge.
+---
+
+CATEGORY: Sales
+RESUME:
+Franchise development manager who expanded a food-and-beverage brand from 15 to 45 outlets by identifying, onboarding, and supporting new franchise partners.
+---
+
+CATEGORY: Sales
+RESUME:
+Business development manager who grew a territory from ₹2 Cr to ₹8 Cr ARR in 3 years by acquiring 40 new enterprise accounts in the BFSI sector.
+---
+
+CATEGORY: Sales
+RESUME:
+Inside sales representative with expertise in cold calling, email outreach, and demo delivery for a SaaS product. Maintained a 35% demo-to-close conversion rate.
+---
+
+CATEGORY: Sales
+RESUME:
+E-commerce category manager with a sales background. Managed vendor relationships, promotional campaigns, and pricing strategy for a high-growth marketplace.
+---
+
+CATEGORY: Sales
+RESUME:
+Telesales executive with expertise in outbound calling for financial products. Maintained a 12% conversion rate on cold lists — 3× the team average.
+---
+
+CATEGORY: Sales
+RESUME:
+Key account manager responsible for ₹15 Cr annual revenue from 12 strategic enterprise clients. Managed renewals, upsells, and executive-level relationships.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Swimming coach with 7 years developing junior swimmers. Three of my athletes qualified for state-level competitions. Expert in stroke technique and race strategy.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Sports massage therapist with experience treating professional and recreational athletes. Skilled in deep tissue, sports, and trigger point massage techniques.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Sports scientist with expertise in biomechanics analysis, VO2 max testing, and periodisation planning for endurance athletes. Used GPS and heart rate data for performance profiling.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Yoga instructor (RYT-500) with expertise in Hatha, Vinyasa, and therapeutic yoga. Ran group classes and one-on-one sessions for corporate wellness programmes.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Dietitian working in a hospital nutrition department. Conducted nutritional assessments, designed therapeutic diets, and provided counselling to patients with diabetes and renal disease.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Health promotion specialist who designed and delivered smoking cessation, diabetes prevention, and mental health awareness campaigns for a primary health centre.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Strength and conditioning coach for a professional cricket academy. Designed pre-season and in-season programmes for 20 squad players.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Fitness app content creator with 80,000 YouTube subscribers. Produces evidence-based workout videos, nutrition guides, and wellness content.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Rehabilitation specialist working with elderly patients recovering from hip and knee replacements. Focused on restoring mobility, balance, and functional independence.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Occupational health and safety specialist with a background in exercise physiology. Conducted ergonomic assessments and injury prevention programmes for office workers.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Certified personal trainer (NASM-CPT) with 5 years helping clients achieve weight loss, muscle gain, and athletic performance goals. Designed bespoke training plans for 60+ active clients.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Wellness coach focused on stress management, sleep optimisation, and behaviour change. Delivered corporate wellness workshops for 500+ employees.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Physiotherapist with 4 years in orthopaedic and sports rehabilitation. Treated athletes recovering from ACL injuries, rotator cuff tears, and stress fractures.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Gym manager and head coach responsible for staff recruitment, timetabling, member retention, and equipment maintenance for a 1,200-member fitness centre.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+CrossFit coach (Level 2 certified) with experience programming strength and conditioning for a 200-member affiliate box. Passionate about functional fitness and injury prevention.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Triathlon coach and competitive age-group triathlete. Coached 15 athletes to podium finishes at regional events. Expert in swim-bike-run periodisation.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Pilates instructor (STOTT certified) specialising in post-natal recovery and clinical Pilates for clients with back pain and joint problems.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Aerobics and group fitness instructor with 6 years teaching Zumba, HIIT, and step aerobics. Strong ability to motivate diverse groups and adapt classes for all fitness levels.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Junior fitness trainer at a boutique gym. Assist members with technique correction, programme adjustments, and motivational coaching. Personal training certification in progress.
+---
+
+CATEGORY: Health and Fitness
+RESUME:
+Nutritionist and dietitian (RD) specialising in sports nutrition and weight management. Developed personalised meal plans and supplement protocols for competitive athletes.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Infrastructure consultant specialising in smart city projects — solid waste management, storm drainage, street lighting, and underground utility design.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Structural design engineer with expertise in RCC and steel frame design to IS 456 and IS 800. Used ETABS and STAAD for multi-storey building analysis.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Site engineer overseeing day-to-day construction activities for a 500-unit residential development. Managed labour, materials, and quality checks.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Junior civil engineer with 2 years on-site experience in a construction company. Familiar with AutoCAD drafting, bar bending schedules, and concrete mix design.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Quantity surveyor with expertise in BOQ preparation, rate analysis, tender documentation, and final account settlement for construction contracts.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Construction project manager with PMP certification. Led delivery of a ₹120 Cr commercial complex from design to handover, on time and within budget.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Pavement design engineer with experience in flexible and rigid pavement design using IRC methods and IITPAVE software.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Bridge engineer with experience in pre-stressed concrete and composite steel-concrete bridge design. Familiar with IRC, AASHTO, and Eurocodes.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Plumbing and sanitation engineer who designed water supply and drainage systems for multi-storey residential and hospital buildings.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Geotechnical engineer with experience in soil investigation, pile design, and foundation engineering for bridges and high-rise structures.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Water resources engineer specialising in irrigation canal design, dam spillway hydraulics, and watershed management studies.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Civil engineer with expertise in green building design and LEED certification. Designed passive cooling, rainwater harvesting, and solar-ready infrastructure.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Project engineer managing a ₹40 Cr highway construction project. Responsible for schedule, quality, billing, and subcontractor coordination.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Coastal and offshore engineer involved in breakwater design, wave analysis, and shoreline protection studies.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Environmental engineer with expertise in EIA preparation, wastewater treatment plant design, and environmental compliance monitoring.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Urban planner and civil engineer involved in preparation of city master plans, zoning regulations, and land use analysis.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Civil engineer with 5 years in structural design and construction supervision for residential and commercial buildings. Proficient in STAAD Pro, AutoCAD, and IS codes.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Construction material testing lab manager with expertise in quality control, concrete cube testing, NDT, and mix design approvals.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Tunnelling engineer with experience in NATM and cut-and-cover tunnel construction. Worked on two metro rail tunnel projects.
+---
+
+CATEGORY: Civil Engineer
+RESUME:
+Transportation engineer who designed traffic signal timing plans, conducted traffic impact assessments, and prepared geometric design reports for urban roads.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java backend developer with 4 years building microservices using Spring Boot, REST APIs, and Hibernate. Deployed services on AWS EC2 with Docker containerisation.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Senior Java engineer experienced in high-throughput systems. Optimised a message processing service handling 1M events/day using Kafka and Spring.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Android developer (Java + Kotlin) with experience publishing 3 apps to the Play Store. Strong understanding of MVVM architecture, Retrofit, and Room.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Backend Java developer who migrated a legacy monolith to Spring Boot microservices, reducing deployment time by 60% and improving system reliability.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Full-stack Java developer proficient in Spring MVC, Angular, MySQL, and Maven. Delivered three enterprise web applications for insurance and logistics clients.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Spring Boot specialist who mentors junior developers and conducts technical interviews. Passionate about clean code, refactoring, and agile engineering practices.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java cloud developer with AWS certifications (Solutions Architect Associate). Built serverless workflows using Lambda, SQS, S3, and DynamoDB from a Java perspective.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Entry-level Java developer with a strong graduation project: built a university exam management system using Spring Boot and MySQL. Eager to learn and contribute.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java developer with 3 years building RESTful APIs for HR and payroll management systems. Experience with Spring Security, OAuth2, and JWT authentication.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Test automation engineer (Java) with expertise in Selenium WebDriver, TestNG, and REST Assured. Built a CI/CD integrated test framework from scratch.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java developer with expertise in design patterns, SOLID principles, and test-driven development. Maintained 90%+ code coverage with JUnit and Mockito.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java performance engineer who profiled JVM heap, reduced GC pause times by 40%, and optimised database query plans for a high-traffic e-commerce system.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java developer with strong DSA skills — solved 400+ LeetCode problems. Comfortable with graphs, trees, dynamic programming, and system design interviews.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java developer and open-source contributor. Contributed to Apache Commons and Spring projects. Expert in build automation with Maven and Gradle.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Microservices Java developer familiar with distributed tracing (Zipkin, Sleuth), circuit breakers (Resilience4j), and API documentation (Swagger/OpenAPI).
+---
+
+CATEGORY: Java Developer
+RESUME:
+Enterprise Java developer with expertise in JEE, EJBs, JPA, and Oracle WebLogic deployments for large financial institutions.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java architect who designed a scalable multi-tenant SaaS platform using Spring Cloud microservices, Eureka service discovery, and API Gateway.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java developer with experience in batch processing using Spring Batch and Quartz Scheduler for ETL and report-generation workflows.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Java developer with strong SQL skills — query optimisation, stored procedures, and database design for MySQL, PostgreSQL, and Oracle.
+---
+
+CATEGORY: Java Developer
+RESUME:
+Junior Java developer with 18 months experience in a fintech company. Built REST APIs with Spring Boot, integrated third-party payment gateways, and wrote unit tests.
+---
+
+CATEGORY: Testing
+RESUME:
+Continuous testing advocate who shifted testing left by integrating unit and integration tests into the CI pipeline, reducing post-release defects by 45%.
+---
+
+CATEGORY: Testing
+RESUME:
+Healthcare domain QA engineer with knowledge of HL7, FHIR, and medical device software testing standards (IEC 62304).
+---
+
+CATEGORY: Testing
+RESUME:
+Manual testing specialist with strong domain knowledge in banking and insurance applications. Expert in writing test cases from BRD and functional specifications.
+---
+
+CATEGORY: Testing
+RESUME:
+Junior tester with 1 year of experience in manual testing. Wrote 300+ test cases, executed regression cycles, and reported bugs in Bugzilla.
+---
+
+CATEGORY: Testing
+RESUME:
+QA engineer with expertise in accessibility testing (WCAG 2.1), screen reader compatibility, and colour contrast validation.
+---
+
+CATEGORY: Testing
+RESUME:
+API testing engineer proficient in Postman, SoapUI, and REST Assured. Created 500+ API test cases covering positive, negative, and edge scenarios.
+---
+
+CATEGORY: Testing
+RESUME:
+SDET (Software Development Engineer in Test) with Java and Python skills. Built a BDD test framework using Cucumber and RestAssured for a microservices architecture.
+---
+
+CATEGORY: Testing
+RESUME:
+Automation test lead who built an end-to-end Selenium WebDriver framework using Page Object Model and integrated it with Jenkins CI/CD.
+---
+
+CATEGORY: Testing
+RESUME:
+Test data management engineer who designed synthetic test data generation scripts using Python and Faker library, eliminating production data dependencies in QA.
+---
+
+CATEGORY: Testing
+RESUME:
+UI automation engineer using Cypress (JavaScript) for frontend regression testing. Built a cloud-based parallel test execution setup on BrowserStack.
+---
+
+CATEGORY: Testing
+RESUME:
+Defect management specialist who triaged, reproduced, and escalated 1,500+ bugs using JIRA. Maintained defect metrics dashboards for stakeholder reporting.
+---
+
+CATEGORY: Testing
+RESUME:
+Test automation consultant who evaluated and selected automation tools for three clients and delivered proof-of-concept frameworks for Selenium and Playwright.
+---
+
+CATEGORY: Testing
+RESUME:
+Agile QA engineer embedded in a Scrum team. Participated in sprint planning, wrote acceptance criteria, executed exploratory tests, and tracked defects in JIRA.
+---
+
+CATEGORY: Testing
+RESUME:
+Test manager overseeing a QA team of 8 across functional, regression, performance, and UAT tracks. Defined test strategy, metrics, and exit criteria.
+---
+
+CATEGORY: Testing
+RESUME:
+QA engineer with 4 years in manual and automation testing for web and mobile applications. Proficient in Selenium, TestNG, and API testing with Postman.
+---
+
+CATEGORY: Testing
+RESUME:
+Database testing specialist who validated data integrity, ETL pipelines, and SQL stored procedures for a data warehouse migration project.
+---
+
+CATEGORY: Testing
+RESUME:
+Performance testing engineer experienced with JMeter and Gatling. Identified and resolved bottlenecks in a payment gateway handling 10,000 concurrent users.
+---
+
+CATEGORY: Testing
+RESUME:
+Game QA tester who conducted functional, compatibility, and regression testing for mobile and PC games across 15 platforms.
+---
+
+CATEGORY: Testing
+RESUME:
+Security testing professional (OWASP, Burp Suite) who identified and reported 20+ vulnerabilities in web applications, preventing data breaches.
+---
+
+CATEGORY: Testing
+RESUME:
+Mobile QA engineer with expertise in testing Android and iOS applications using Appium. Created test plans, executed regression suites, and filed detailed bug reports.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Blockchain architect who designed a cross-chain interoperability solution using Polkadot parachains and Substrate framework.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Enterprise blockchain developer with IBM Blockchain experience. Delivered a bank consortium trade finance network reducing settlement time from 7 days to 4 hours.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Blockchain developer with 3 years building Ethereum smart contracts in Solidity. Deployed DeFi protocols with TVL exceeding $2M on mainnet.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Smart contract auditor who reviewed Solidity codebases for reentrancy, integer overflow, and access control vulnerabilities. Audited 10+ protocols.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Solidity developer and DeFi protocol engineer with deep knowledge of Uniswap V3, Aave, and Compound protocols. Created custom yield strategies.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Blockchain security researcher who identified and disclosed a critical reentrancy vulnerability in a DEX, potentially saving $5M in user funds.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Junior blockchain developer with experience deploying ERC-20 tokens, ERC-721 NFTs, and basic DeFi contracts on Ethereum testnets using Hardhat and Foundry.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Crypto trading systems developer who built an MEV bot and arbitrage strategy on Ethereum using Flashbots bundles.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Blockchain developer with Solana experience. Built Rust-based programs using Anchor framework for token swapping and liquidity provision.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Layer 2 developer experienced with Optimism, Arbitrum, and Polygon zkEVM. Deployed gas-optimised contracts and bridging solutions.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Cryptocurrency exchange backend engineer with experience in wallet infrastructure, transaction signing, cold/hot wallet management, and regulatory compliance.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Zero-knowledge proof engineer experimenting with zk-SNARKs using circom and snarkjs for privacy-preserving identity verification.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Web3 frontend developer building dApps using React, ethers.js, and WalletConnect. Integrated NFT minting, staking, and governance contract interactions.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Smart contract developer with knowledge of formal verification tools (Certora, Manticore) for mathematically proving contract correctness.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Blockchain student developer who completed the CryptoZombies curriculum and deployed a full DApp (voting system) on Goerli testnet as a personal project.
+---
+
+CATEGORY: Blockchain
+RESUME:
+NFT marketplace developer who built a full-stack NFT trading platform with royalty enforcement, lazy minting, and on-chain provenance verification.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Blockchain consultant who advised three enterprises on feasibility, platform selection, and use-case validation for distributed ledger projects.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Blockchain product manager who defined and shipped a cross-border payment product on a permissioned blockchain, processing $10M in test transactions.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Hyperledger Fabric developer with experience designing permissioned blockchain networks for supply chain and trade finance use cases.
+---
+
+CATEGORY: Blockchain
+RESUME:
+Tokenomics designer who modelled supply schedules, vesting curves, and incentive mechanisms for DAO governance tokens.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+SSIS and T-SQL specialist who optimised slow-running ETL jobs, reducing nightly batch processing time from 6 hours to 90 minutes.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Oracle Data Integrator (ODI) developer experienced in CDC-based ETL, slowly changing dimensions (SCD Type 1 and 2), and data quality checks.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Cloud ETL developer with experience in AWS Glue, Lambda, and Step Functions. Replaced on-premise SSIS pipelines with serverless cloud equivalents.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Data pipeline engineer who built real-time streaming pipelines using Kafka Connect, Debezium CDC, and Spark Structured Streaming.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Junior ETL developer with 1.5 years experience in SQL, SSIS, and Python scripting for data extraction from ERP systems and flat files.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Data engineer who designed and automated ETL workflows using Apache Airflow, extracting from 15 source systems into a Redshift data warehouse.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Talend Open Studio developer who built 50+ ETL jobs for a retail data warehouse, handling product catalogue, inventory, and sales transaction feeds.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+ETL architect who designed a medallion architecture (Bronze/Silver/Gold) on Azure Data Lake Storage using Azure Data Factory and Databricks.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Python ETL developer who replaced manual Excel-based processes with fully automated Python scripts using pandas, SQLAlchemy, and schedule.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Big data ETL engineer experienced with Apache Spark, Python (PySpark), and Hive. Built pipelines processing 5TB daily from Kafka streams.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+ELT developer using dbt (data build tool) to transform raw data in Snowflake, building reusable models, tests, and documentation.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+ETL developer with deep SQL expertise — complex joins, window functions, CTEs, and query optimisation for Microsoft SQL Server and Oracle.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+ETL developer with 4 years designing and maintaining data pipelines using Informatica PowerCenter and SQL Server Integration Services (SSIS).
+---
+
+CATEGORY: ETL Developer
+RESUME:
+ETL developer with expertise in change data capture, idempotent pipeline design, and handling late-arriving and out-of-order records.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+ETL developer with healthcare domain expertise. Built HL7 and FHIR data ingestion pipelines for electronic health record integration.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+SAS data management specialist with experience in SAS DI Studio, SAS/SQL, and SAS macro programming for clinical data transformations.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Data quality engineer who implemented Great Expectations checks across ETL pipelines, reducing downstream reporting errors by 70%.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+Batch processing engineer who developed and maintained 200+ Shell and Python scripts for nightly data feeds between legacy mainframe and modern analytical systems.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+DataStage developer who designed and optimised IBM DataStage parallel jobs for an insurance claims data warehouse handling 100M+ records.
+---
+
+CATEGORY: ETL Developer
+RESUME:
+ETL lead who managed a team of 5 developers during a data warehouse migration from on-premise Teradata to Google BigQuery.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Facility operations manager responsible for maintaining a 500,000 sq ft corporate campus — security, housekeeping, maintenance, and vendor management.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+BPO operations manager overseeing 150 agents across 3 shifts. Maintained 98% SLA adherence and improved CSAT scores from 76% to 88%.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Start-up operations manager who built operational processes from scratch — CRM, inventory management, HR workflows, and customer support systems.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Project operations manager (PMP certified) who built and standardised PMO processes, improving project on-time delivery from 60% to 85%.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Field operations manager for a solar energy company. Coordinated installation teams, managed project timelines, and handled customer escalations across 200+ sites.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Global operations director managing shared services hubs in India, Philippines, and Poland for a 10,000-employee multinational.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Customer operations manager leading a 60-person support team. Implemented ticket routing automation that reduced average handling time by 35%.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Operations manager with 7 years in e-commerce logistics. Led a team of 40, managing warehouse operations, last-mile delivery SLAs, and vendor performance.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Airline ground operations manager overseeing turnaround, baggage handling, and ground crew coordination for 50 daily departures.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Healthcare operations manager for a hospital group. Managed OPD scheduling, billing processes, and patient experience initiatives.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Quality operations manager who rolled out ISO 9001:2015 certification across three manufacturing plants, passing first-time without non-conformances.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Manufacturing operations manager who implemented lean production principles, reducing waste by 30% and improving OEE from 72% to 88% in 18 months.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Supply chain operations manager responsible for procurement, inventory, and logistics for a ₹200 Cr annual revenue consumer goods company.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Retail operations manager overseeing 25 stores across North India. Responsible for revenue targets, shrinkage control, and staff productivity.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Hospital operations manager responsible for patient flow optimisation, bed management, and interdepartmental coordination to improve throughput.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+IT operations manager overseeing infrastructure, service desk, and NOC teams. Achieved 99.95% uptime SLA for critical business applications.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Procurement and operations manager who renegotiated vendor contracts, saving 18% on annual direct materials spend through competitive tendering.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Restaurant operations manager for a QSR chain with 12 outlets. Standardised processes, reduced food waste by 25%, and improved customer satisfaction scores.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Distribution centre operations manager who designed and launched a new 80,000 sq ft fulfilment centre, achieving full productivity within 90 days of go-live.
+---
+
+CATEGORY: Operations Manager
+RESUME:
+Junior operations executive with 2 years supporting daily logistics coordination, data entry, and vendor communications at a 3PL company.
+---
+
+CATEGORY: Python Developer
+RESUME:
+FastAPI specialist who architected a microservices backend serving 500K daily requests. Used async Python, SQLAlchemy, and Alembic for schema management.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python developer with strong algorithmic background — competitive programmer with CodeChef Division 1 rating. Comfortable with complex backend logic.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Senior Python developer (8 years) who has led teams of 5 engineers, conducted code reviews, and established coding standards at three companies.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Django full-stack developer with React frontend experience. Delivered SaaS HR management platform used by 500+ companies.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python web scraping engineer with experience using Scrapy, BeautifulSoup, and Playwright. Built data collection pipelines for real estate and pricing intelligence.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Flask developer with experience building internal tooling, dashboard backends, and integrations with third-party APIs (Stripe, Twilio, SendGrid).
+---
+
+CATEGORY: Python Developer
+RESUME:
+Junior Python developer (fresh graduate) who built a face recognition attendance system using OpenCV and Python as a final year project.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Script and CLI tool developer using Python and Click. Created developer productivity tools for a 200-person engineering team.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python developer with strong data engineering skills — pandas, SQLAlchemy, and Airflow DAGs for business intelligence pipelines.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python developer specialising in IoT data ingestion and processing. Built MQTT-to-database pipelines using asyncio and InfluxDB.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python developer with strong unit testing discipline. Uses pytest, mock, and hypothesis-based property testing. Maintained 95% coverage on a critical billing service.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python DevOps developer who writes infrastructure automation, Ansible playbooks, and custom AWS Lambda functions in Python.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python automation engineer who replaced 15 manual operational processes with scripts using boto3, paramiko, and smtplib — saving 40 hours of work per week.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python developer with 4 years building scalable web applications using Django REST Framework and PostgreSQL. Comfortable with Docker, Celery, and Redis.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python developer and technical interviewer. Designed and ran Python technical screens for 200+ candidates across data science and backend roles.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Jupyter and notebook Python developer creating interactive data exploration tools for non-technical analysts at a market research firm.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python developer and open-source contributor. Maintainer of a 1,200-star GitHub library for API client generation. Expert in packaging, testing, and CI/CD.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python developer with expertise in concurrency — asyncio, concurrent.futures, and threading for high-throughput data processing tasks.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Django developer with 3 years at an edtech startup. Built course management, assessment, and payment systems. Strong in PostgreSQL query optimisation.
+---
+
+CATEGORY: Python Developer
+RESUME:
+Python API integration developer who connected CRM, ERP, and marketing tools through a unified middleware layer, reducing data silos.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+DevOps engineer and technical lead mentoring 4 junior engineers. Responsible for platform roadmap, SLA reporting, and cross-team infrastructure support.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Kubernetes cluster administrator who managed a 200-node multi-region cluster on EKS. Implemented HPA, VPA, and cluster autoscaling.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Docker specialist who containerised a 15-service application, eliminating environment drift and cutting new developer onboarding time by 3 days.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+DevOps engineer who migrated on-premise workloads to Kubernetes on AWS, cutting infrastructure costs by 40%. Expert in Terraform and Linux.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Service mesh engineer with expertise in Istio — traffic management, mTLS, circuit breaking, and distributed tracing with Jaeger.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Linux system administrator turned DevOps engineer. Expert in bash scripting, cron jobs, networking, and system hardening.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Site reliability engineer who introduced SLOs, error budgets, and incident response playbooks. Improved MTTR from 45 minutes to 12 minutes.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+DevSecOps engineer who integrated SAST (SonarQube), DAST (OWASP ZAP), and dependency scanning (Dependabot) into the CI/CD pipeline.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Infrastructure engineer who automated cloud provisioning with Terraform and AWS CloudFormation. Proficient in Linux, Docker, and CI/CD tooling.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Junior DevOps engineer who set up Docker Compose development environments, configured GitHub Actions workflows, and managed AWS EC2 instances.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Observability engineer who designed a full-stack monitoring solution using Prometheus, Grafana, and Loki — eliminating blind spots in production.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Cloud security engineer who embedded security into CI/CD pipelines using Trivy, Checkov, and AWS Security Hub. Achieved SOC 2 Type II compliance.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Automation-first DevOps engineer who eliminated all manual production deployments. Zero-downtime deployments with blue-green strategy on Kubernetes.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Infrastructure engineer with Azure expertise — AKS, Azure DevOps, Bicep templates, and Azure Monitor. Led Azure adoption for a 300-person firm.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+DevOps engineer with 5 years managing AWS infrastructure using Terraform and Kubernetes. Expert in CI/CD pipelines, Docker, and Linux administration.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+DevOps engineer with GCP expertise — Cloud Run, GKE, Cloud Build, and Terraform for GCP. Migrated a Django application from Heroku to GCP.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Cost optimisation engineer who reduced monthly AWS spend by 35% through Reserved Instances, right-sizing, and Spot Instance strategies.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+Platform engineer who built a GitOps delivery pipeline using ArgoCD and Helm, reducing deployment failures by 70% and rollback time by 90%.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+CI/CD specialist with deep expertise in GitHub Actions, Jenkins, and Azure DevOps pipelines. Built reusable pipeline templates for 30+ microservices.
+---
+
+CATEGORY: DevOps Engineer
+RESUME:
+DevOps consultant who assessed and transformed manual deployment practices at three clients, reducing release cycles from monthly to daily.
+---
+
+CATEGORY: Database
+RESUME:
+Database administrator with 6 years managing Oracle, SQL Server, and PostgreSQL instances in production. Expert in backup/recovery, performance tuning, and security.
+---
+
+CATEGORY: Database
+RESUME:
+MySQL DBA responsible for maintaining 20 production databases. Implemented GTID-based replication, automated backups, and slow query log monitoring.
+---
+
+CATEGORY: Database
+RESUME:
+Database security engineer who implemented TDE, row-level security, column masking, and audit logging across enterprise databases.
+---
+
+CATEGORY: Database
+RESUME:
+Cloud database engineer with AWS RDS, Aurora, and DynamoDB experience. Migrated 10TB Oracle database to Aurora PostgreSQL with minimal downtime.
+---
+
+CATEGORY: Database
+RESUME:
+SQL tuning specialist who reduced dashboard load times from 45 seconds to under 2 seconds by rewriting queries and adding appropriate indexes.
+---
+
+CATEGORY: Database
+RESUME:
+Data modeller with expertise in conceptual, logical, and physical data modelling using ER/Studio and PowerDesigner. Delivered models for 3 enterprise systems.
+---
+
+CATEGORY: Database
+RESUME:
+MongoDB database developer experienced in schema design, aggregation pipelines, indexing strategies, and replication. Managed clusters of 10TB+ data.
+---
+
+CATEGORY: Database
+RESUME:
+PostgreSQL specialist with experience in partition tables, BRIN and GIST indexes, and PostGIS geospatial extensions. Managed a 15TB OLTP database.
+---
+
+CATEGORY: Database
+RESUME:
+Redis architect who designed caching layers, rate limiters, leaderboards, and pub/sub messaging systems using Redis. Expert in cluster mode and Sentinel.
+---
+
+CATEGORY: Database
+RESUME:
+Database performance consultant who identified and resolved locking, deadlocking, and I/O bottleneck issues across 5 client production environments.
+---
+
+CATEGORY: Database
+RESUME:
+Database reliability engineer responsible for capacity planning, HA configuration (Always On AG, Patroni), and disaster recovery drills.
+---
+
+CATEGORY: Database
+RESUME:
+Junior DBA with 2 years experience in SQL Server maintenance, index management, and executing scheduled backups. Learning Oracle and PostgreSQL.
+---
+
+CATEGORY: Database
+RESUME:
+Database architect who designed a centralised data model for a multi-brand retail conglomerate, enabling enterprise-wide reporting for the first time.
+---
+
+CATEGORY: Database
+RESUME:
+Oracle PL/SQL developer with 8 years building complex packages, functions, and triggers for ERP financial applications.
+---
+
+CATEGORY: Database
+RESUME:
+Elasticsearch engineer who designed and managed search indices for a classified ads platform with 50M+ active listings.
+---
+
+CATEGORY: Database
+RESUME:
+SQL developer with deep expertise in stored procedures, triggers, and complex T-SQL queries. Optimised 50+ slow queries reducing average execution time by 70%.
+---
+
+CATEGORY: Database
+RESUME:
+Database developer and technical trainer who created and delivered SQL training programmes for 200+ business analysts at a large bank.
+---
+
+CATEGORY: Database
+RESUME:
+Data warehouse developer with expertise in Snowflake SQL, dimensional modelling (star and snowflake schemas), and performance optimisation.
+---
+
+CATEGORY: Database
+RESUME:
+Graph database developer experienced in Neo4j and Cypher queries for recommendation engines, fraud detection, and knowledge graphs.
+---
+
+CATEGORY: Database
+RESUME:
+Cassandra database engineer with experience in multi-datacenter deployments, compaction strategies, and tuning for write-heavy workloads.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Kafka and Hadoop integration engineer who built streaming-to-batch pipelines using Kafka, Spark Streaming, and Hive for a retail analytics platform.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Hadoop cluster sizing and capacity planning specialist. Modelled hardware requirements for a 500-node cluster handling 10TB daily ingestion.
+---
+
+CATEGORY: Hadoop
+RESUME:
+HDFS tuning specialist who optimised block size, replication factor, and erasure coding settings, reducing storage cost by 30%.
+---
+
+CATEGORY: Hadoop
+RESUME:
+HBase developer experienced in row key design, bloom filters, and region splitting for a real-time user profile store serving 10M daily lookups.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Sqoop specialist who designed and scheduled incremental imports from 30 Oracle tables into HDFS, enabling daily refresh of analytical datasets.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Pig developer who built complex data transformation scripts for clickstream data enrichment and sessionisation on Hadoop.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Hadoop migration consultant who helped three enterprises migrate from Hadoop on-premise to cloud-native equivalents (EMR, Dataproc, HDInsight).
+---
+
+CATEGORY: Hadoop
+RESUME:
+Cloudera administrator who managed cluster health, Kerberos security, capacity scheduling, and storage tier configuration.
+---
+
+CATEGORY: Hadoop
+RESUME:
+MapReduce developer with Java expertise. Built custom InputFormats, Combiners, and Partitioners for complex ETL jobs on HDFS.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Hadoop security engineer who implemented Kerberos authentication, Apache Ranger policies, and data encryption at rest using HDFS transparent encryption.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Big data engineer with hands-on experience in Hadoop ecosystem: HDFS, YARN, MapReduce, Hive, HBase, Sqoop, and Oozie.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Junior Hadoop developer with 1 year experience writing Hive queries, running Sqoop imports, and monitoring jobs in Ambari.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Big data developer with 5 years in telecom domain. Built CDR (call detail record) processing pipelines on Hadoop for billing and fraud detection.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Hortonworks HDP developer with expertise in Atlas for data governance, Ranger for security, and Ambari for cluster management.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Hadoop developer with 4 years building MapReduce, Hive, and Pig batch processing jobs on a 100-node CDH cluster processing 2TB daily.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Spark and Hadoop engineer who migrated legacy MapReduce jobs to PySpark, achieving 10× speedup in data processing throughput.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Oozie workflow developer who automated complex multi-stage Hadoop jobs with dependencies, retries, and email alerting.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Flume and Kafka developer who designed log ingestion pipelines from 200 application servers into HDFS for centralized log analytics.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Big data architect who designed a data lake on AWS EMR (Hadoop), enabling petabyte-scale analytics using Hive, Spark, and Presto.
+---
+
+CATEGORY: Hadoop
+RESUME:
+Hive developer who built a 500-table data warehouse on Hadoop for a telecom company, enabling self-service analytics for 200+ business users.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+IoT firmware engineer who developed sensor node firmware for temperature, humidity, and vibration monitoring using STM32 and ESP32.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Control systems engineer with expertise in PLC programming (Siemens S7, Allen-Bradley), SCADA systems, and industrial automation.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Junior electrical engineer with 1 year experience assisting in LV panel design, load calculations, and AutoCAD Electrical drafting.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Electrical site engineer responsible for cable laying, termination, and testing for a 100 MW wind farm electrical infrastructure.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Electrical estimator and design engineer for EPC projects. Prepared SLDs, cable schedules, earthing layouts, and MV panel datasheets.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Power electronics engineer with expertise in inverter design, motor drive circuits, and SMPS topologies. Experienced with simulation in MATLAB/Simulink.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Renewable energy engineer specialising in solar PV system design, energy yield analysis using PVsyst, and grid interconnection studies.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Electronics engineer specialising in embedded systems design using ARM Cortex-M microcontrollers and RTOS (FreeRTOS). Designed PCBs in Altium Designer.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Electrical project engineer who managed installation and commissioning of a 33/11 kV substation, including protection relay settings and switchgear testing.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Smart grid engineer working on AMI deployments, demand response systems, and grid fault detection using machine learning on meter data.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Electrical engineer with 5 years in power systems, protection relay testing, and substation commissioning. Proficient in ETAP and AutoCAD Electrical.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+High voltage test engineer with experience in transformer, cable, and switchgear HV testing per IEC and IS standards.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+PCB design engineer proficient in Altium Designer and KiCad. Designed 4-layer and 8-layer boards for industrial and consumer electronics products.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Power system protection engineer with expertise in setting distance, differential, and overcurrent relays using SEL and ABB RET relays.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+EV powertrain engineer working on battery management systems (BMS), motor controllers, and thermal management for electric vehicles.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Signal integrity engineer with expertise in differential pair routing, impedance control, and DDR memory interface design for high-speed PCBs.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Motor drive engineer with expertise in VFDs (variable frequency drives), servo systems, and regenerative braking applications.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+VLSI design engineer with experience in RTL coding (Verilog/VHDL), synthesis, static timing analysis, and physical design using Cadence tools.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Electrical maintenance engineer responsible for planned preventive maintenance of HT/LT switchgear, transformers, and UPS systems in a manufacturing plant.
+---
+
+CATEGORY: Electrical Engineering
+RESUME:
+Instrumentation engineer with experience in flow, pressure, and temperature measurement systems. Familiar with HART, PROFIBUS, and Modbus protocols.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+BA with experience in contact centre and CRM platforms (Zendesk, ServiceNow, Salesforce Service Cloud). Mapped customer journey and SLA structures.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+IT business analyst who bridged the gap between infrastructure teams and business units during a data centre migration project.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Lean Six Sigma Green Belt BA who applied DMAIC methodology to reduce invoice processing errors by 60% and cycle time by 40%.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+BA with expertise in insurance domain — motor, life, and health insurance product configuration, rating engines, and claims workflow analysis.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Requirements engineer with expertise in BPMN process modelling, use case documentation, and UML diagrams using Lucidchart and Visio.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Financial BA with domain expertise in investment banking operations — trade lifecycle, reconciliation, and regulatory reporting (MiFID II, EMIR).
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Business analyst who led a CRM implementation for a 200-person sales team — gathered requirements, configured Salesforce, and delivered training.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Agile BA who wrote 500+ user stories, maintained the product backlog, and facilitated sprint planning for a cross-functional team delivering a FinTech platform.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Business analyst with 4 years translating complex business requirements into clear functional specifications. Expert in SQL, Excel, and stakeholder workshops.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Change management BA who documented AS-IS and TO-BE business processes, assessed change impacts, and developed training materials for 500 end users.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+BA specialising in ERP implementations (SAP S/4HANA). Conducted fit-gap analysis, wrote functional specification documents, and supported UAT.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Senior business analyst and team lead overseeing 3 junior BAs. Responsible for delivery quality, stakeholder management, and BA capability development.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+E-commerce business analyst who defined and tracked KPIs, conducted user research, and prioritised roadmap features based on revenue impact analysis.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+BA with strong presentation skills who regularly briefed C-suite stakeholders on project status, risks, and decisions required.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Supply chain BA with expertise in demand forecasting, inventory policy design, and S&OP process improvements for a consumer goods company.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Digital transformation BA who scoped and delivered an RPA implementation automating 20 manual processes, saving 15 FTE equivalent hours monthly.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Junior business analyst with 18 months experience in a management consultancy. Created process maps, gathered data for cost-benefit analysis, and prepared presentations.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Data-driven BA who used SQL and Tableau to identify process inefficiencies, quantifying a ₹2 Cr annual saving from a billing workflow redesign.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Product owner and BA hybrid role — managed backlog for a mobile banking app, defined acceptance criteria, and collaborated daily with engineering and design.
+---
+
+CATEGORY: Business Analyst
+RESUME:
+Healthcare business analyst with knowledge of hospital information systems, clinical workflows, and HL7 FHIR messaging standards.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+CI/CD test automation lead who designed a test pipeline running unit, integration, and E2E tests in parallel, cutting pipeline duration from 45 to 12 minutes.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Katalon Studio developer who built cross-browser automated test suites without coding, enabling non-developer QA analysts to write automated tests.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+QA automation architect who standardised test automation practices across 8 product teams through shared frameworks, guidelines, and training.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Robot Framework specialist with experience in web, API, and desktop automation for industrial control system testing.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Data-driven testing specialist who designed parameterised test frameworks reading test data from Excel, JSON, and database sources.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Appium automation engineer who automated both Android and iOS mobile test suites, running in parallel on BrowserStack Device Cloud.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Automation framework trainer who designed and delivered a 3-day Selenium + Java workshop for 60 manual testers, upskilling the team.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Mobile performance automation engineer using Perfecto and Firebase Test Lab to measure app startup time, frame rate, and memory usage on real devices.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Junior automation tester with 1 year experience writing Selenium tests in Java. Familiar with TestNG, Maven, and JIRA for defect tracking.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+BDD automation engineer who wrote Gherkin feature files and implemented step definitions in Java+Cucumber for a behaviour-driven test suite.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Playwright automation engineer (TypeScript) who replaced a legacy Protractor suite — reduced flaky test rate from 30% to 2%.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Test automation consultant who evaluated and recommended automation tools (Selenium, Playwright, Cypress) based on project-specific criteria for 5 clients.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Python automation tester who built a comprehensive Pytest framework integrating Selenium, Allure reports, and Jenkins CI for a SaaS product.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Automation test engineer with 5 years building robust Selenium WebDriver frameworks in Java using Page Object Model and TestNG.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Visual regression testing engineer using Percy and BackstopJS to catch unintended UI changes across 500+ page templates.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Security automation engineer who integrated ZAP proxy into CI/CD to automatically scan for OWASP Top 10 vulnerabilities on every build.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Accessibility automation engineer who used Axe and Pa11y CLI tools to integrate WCAG compliance checks into the CI pipeline.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+API automation expert using REST Assured and Postman Newman. Built a collection of 600+ automated API tests covering CRUD, auth, and edge cases.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Performance test automation engineer using Gatling (Scala) and K6. Authored load test scripts simulating 50,000 virtual users.
+---
+
+CATEGORY: Automation Testing
+RESUME:
+Cypress automation engineer who built a full regression suite of 800+ tests for a React frontend, integrated with GitHub Actions for PR gating.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Zero trust network architect who designed a microsegmentation framework and replaced traditional VPN with ZTNA for remote access.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Vulnerability management specialist who ran quarterly Nessus and Qualys scans, triaged findings, and drove remediation to reduce critical exposure by 80%.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Network security engineer with 6 years designing and operating enterprise firewall policies, IDS/IPS systems, and VPN solutions. CCNP Security certified.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Threat intelligence analyst who produced daily IOC feeds, APT actor profiles, and vulnerability bulletins consumed by SOC and engineering teams.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Security compliance engineer who led ISO 27001 and NIST CSF assessments, gap analysis, and remediation tracking for a FinTech company.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Security architect who designed reference architectures for cloud workloads, covering network segmentation, encryption, logging, and access control.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Email security engineer who configured and tuned Proofpoint and Mimecast to block phishing, BEC, and malware campaigns.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+SOC analyst (Level 3) who investigated and contained 500+ security incidents using Splunk SIEM and threat intelligence feeds.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Network monitoring specialist using Nagios, Zabbix, and SolarWinds for proactive network health monitoring and capacity alerting.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Incident response specialist with experience in malware analysis, forensic investigation, and post-incident reporting for enterprise environments.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Cloud security engineer with AWS Security specialisation — GuardDuty, Security Hub, WAF, Shield, and IAM policy governance.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Endpoint security engineer managing Crowdstrike Falcon deployment for 3,000 endpoints — policy management, threat hunting, and containment.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Red team operator with expertise in Active Directory attacks (Kerberoasting, DCSync, Pass-the-Hash) and lateral movement techniques.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Firewall engineer proficient in Palo Alto Networks, Cisco ASA, and Fortinet — rule base management, NAT policies, and application-aware filtering.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Junior network security engineer with CCNA Security certification. Assisted in firewall rule reviews, VPN configuration, and log analysis.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Network engineer with security focus — BGP, OSPF, MPLS, and SD-WAN design with integrated security controls for a 50-branch enterprise.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+PKI and certificate lifecycle management engineer responsible for enterprise CA, TLS certificate automation with ACME/Let's Encrypt.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Penetration tester (CEH, OSCP) with experience in web application, network, and social engineering assessments for BFSI and healthcare clients.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+DDoS mitigation engineer with experience in Akamai and Cloudflare WAF configuration, BGP blackholing, and rate limiting for high-traffic platforms.
+---
+
+CATEGORY: Network Security Engineer
+RESUME:
+Identity and access management (IAM) engineer with expertise in Active Directory, Azure AD, PAM (CyberArk), and SSO/MFA deployments.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP PP (Production Planning) consultant with expertise in MRP, production orders, shop floor control, and capacity planning configuration.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP QM consultant who configured inspection plans, quality certificates, and non-conformance management for a pharmaceutical manufacturer.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP Cloud Platform developer building extensions and integrations for SAP using BTP, CAP framework, and Kyma runtime.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP FICO consultant experienced in GL, AP, AR, asset accounting, and profit centre accounting configuration for manufacturing and retail clients.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP Fiori developer with expertise in UI5 frameworks, OData services, and CDS views for building modern SAP user interfaces.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+ABAP OO developer who refactored legacy procedural ABAP code into clean object-oriented design patterns, improving maintainability.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP HANA database developer with expertise in column store optimisation, calculation views, and HANA SQL procedures.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP Solution Architect with 10 years across multiple modules. Led three full-cycle SAP implementations for manufacturing and logistics companies.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP SD (Sales and Distribution) consultant with 4 years configuring order management, pricing, billing, and credit management processes.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP Security and GRC developer with experience in role design, SOD analysis, access request management, and audit support.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP ABAP developer with 5 years building custom reports, BAPIs, BADIs, and enhancements for SAP ECC 6.0 and S/4HANA systems.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP BW/4HANA developer who designed data models, InfoProviders, and BEx queries for executive reporting dashboards.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP Basis administrator responsible for system landscape management, transport management system, kernel upgrades, and performance tuning.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP CDS view and AMDP developer building virtual data models for embedded analytics in S/4HANA.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP Workflow developer who automated 10 business approval processes using Business Workflow and Business Rules Framework plus.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP MM (Materials Management) specialist with expertise in procurement processes, inventory management, and MRP configuration.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP S/4HANA migration consultant who led a brownfield upgrade from ECC 6.0 to S/4HANA 2023, managing data migration using LTMC.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP Integration consultant experienced in SAP PI/PO and SAP Integration Suite (Cloud Integration) for connecting SAP with third-party systems.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+Junior SAP ABAP developer with 18 months experience in report development, ALV grids, and basic BAPI/BADI implementations.
+---
+
+CATEGORY: SAP Developer
+RESUME:
+SAP HCM developer with experience in PA, OM, payroll, and time management configuration and custom enhancement implementation.
+---
+
+CATEGORY: PMO
+RESUME:
+Change management and PMO professional who managed stakeholder engagement, communication plans, and readiness assessments for a global ERP rollout.
+---
+
+CATEGORY: PMO
+RESUME:
+Senior PMO specialist with PMP and PRINCE2 practitioner certifications. Expert in project health checks, gate reviews, and benefit realisation tracking.
+---
+
+CATEGORY: PMO
+RESUME:
+Junior PMO analyst with 2 years supporting project reporting, minute-taking, document management, and milestone tracking.
+---
+
+CATEGORY: PMO
+RESUME:
+PMO consultant who assessed project management maturity for 5 clients and developed tailored improvement roadmaps.
+---
+
+CATEGORY: PMO
+RESUME:
+Project coordinator experienced in schedule management, resource planning, and stakeholder communication for IT and infrastructure projects.
+---
+
+CATEGORY: PMO
+RESUME:
+Risk management specialist within a PMO. Maintained risk registers, facilitated risk workshops, and tracked mitigation actions for a banking portfolio.
+---
+
+CATEGORY: PMO
+RESUME:
+PPM (Portfolio, Programme, and Project Management) consultant with experience in CA Clarity, Planview, and Broadcom PPM tools.
+---
+
+CATEGORY: PMO
+RESUME:
+Lean PMO specialist who streamlined governance processes, reducing meeting overhead by 30% while maintaining portfolio visibility.
+---
+
+CATEGORY: PMO
+RESUME:
+Project manager and PMO member who delivered 12 simultaneous IT projects using waterfall and hybrid methodologies.
+---
+
+CATEGORY: PMO
+RESUME:
+PMO architect who designed and implemented a portfolio management tool in ServiceNow, replacing spreadsheet-based reporting.
+---
+
+CATEGORY: PMO
+RESUME:
+Programme manager overseeing a ₹100 Cr digital transformation programme with 8 workstreams and 40+ team members.
+---
+
+CATEGORY: PMO
+RESUME:
+PMO business analyst who designed Power BI dashboards giving real-time portfolio visibility to C-suite stakeholders.
+---
+
+CATEGORY: PMO
+RESUME:
+PMO data analyst who built an automated project health scorecard using Python and SharePoint lists as a data source.
+---
+
+CATEGORY: PMO
+RESUME:
+PMO manager who established a project management office from scratch — defined methodology, tools (JIRA, MS Project), and reporting cadence.
+---
+
+CATEGORY: PMO
+RESUME:
+Benefits realisation manager who tracked and reported post-implementation savings from 15 completed transformation projects.
+---
+
+CATEGORY: PMO
+RESUME:
+PMO coordinator with expertise in MS Project Online, resource allocation, timesheet management, and project financial tracking.
+---
+
+CATEGORY: PMO
+RESUME:
+IT PMO lead managing software delivery governance for a 200-person technology function. Chaired weekly portfolio review meetings.
+---
+
+CATEGORY: PMO
+RESUME:
+Delivery manager and PMO head responsible for prioritising the project pipeline, managing dependencies, and ensuring resource availability.
+---
+
+CATEGORY: PMO
+RESUME:
+Agile PMO specialist who introduced SAFe (Scaled Agile Framework) across 6 product teams, improving delivery predictability.
+---
+
+CATEGORY: PMO
+RESUME:
+PMO analyst with 4 years supporting a portfolio of 30+ projects. Responsible for status reporting, risk registers, RAID logs, and governance processes.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+DevOps-aware .NET developer who writes Dockerfiles, maintains GitHub Actions, and deploys services to Azure Kubernetes Service.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+.NET architect who designed a domain-driven design (DDD) modular monolith that served as a migration stepping stone to microservices.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+C# microservices developer who architected a cloud-native solution using .NET 8, Azure Service Bus, Cosmos DB, and Azure Functions.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+.NET Hangfire and Quartz.NET developer for background job scheduling in financial batch processing pipelines.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+.NET developer focused on performance — profiled and optimised hot paths using BenchmarkDotNet, reducing API response times by 50%.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+.NET developer with WPF experience. Built a complex desktop inventory management application for a manufacturing company.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+.NET developer with 5 years building enterprise web applications using ASP.NET Core, C#, Entity Framework, and SQL Server.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+ASP.NET Core REST API developer with strong EF Core skills — code-first migrations, query optimisation, and multi-tenancy patterns.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+.NET reporting developer with SSRS, Crystal Reports, and RDLC expertise for complex regulatory and financial reporting.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+gRPC and Protobuf developer who replaced REST inter-service communication, reducing latency by 40% in a .NET microservices system.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+Senior .NET developer helping organisations modernise legacy WCF/.NET Framework services to modern .NET Core web APIs.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+Entry-level .NET developer with strong C# and OOP fundamentals. Built a university library system using ASP.NET Core MVC and SQL Server.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+C# developer with Azure cloud expertise — App Service, Azure SQL, Key Vault, Application Insights, and Azure AD B2C authentication.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+Test-driven .NET developer who enforces TDD on all features. Expert in xUnit, Moq, and FluentAssertions. Maintains 90%+ coverage.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+Junior .NET developer with 2 years experience in ASP.NET Core, C#, SQL Server, and Git. Eager to adopt clean architecture and TDD practices.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+.NET developer with background in Dynamics 365 CRM customisation — plugins, workflows, Power Automate, and PCF controls.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+MAUI and Xamarin developer with experience building cross-platform mobile and desktop applications in C# for iOS, Android, and Windows.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+SignalR developer who built a real-time collaboration feature (notifications, live data updates, chat) for a project management SaaS.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+Senior .NET engineer with expertise in CQRS and Event Sourcing patterns using MediatR, FluentValidation, and AutoMapper.
+---
+
+CATEGORY: DotNet Developer
+RESUME:
+Full-stack .NET developer proficient in ASP.NET MVC, Blazor, React, and Azure DevOps. Delivered 4 large-scale internal tools for financial services clients.
+---
