@@ -1,0 +1,16 @@
+{
+  "model": "qwen3:8b",
+  "per_category": 2,
+  "categories": [
+    "Data Analyst",
+    "Data Scientist",
+    "Machine Learning Engineer",
+    "Backend Developer",
+    "Frontend Developer",
+    "HR Specialist",
+    "Business Analyst",
+    "DevOps Engineer"
+  ],
+  "output": "/Users/joyboy/Documents/ChatGPT/resume_screening_ml/data/raw/resumes.txt",
+  "fast_bootstrap": true
+}
