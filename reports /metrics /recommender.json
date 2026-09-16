@@ -1,0 +1,288 @@
+{
+  "job_count": 8,
+  "vocabulary_size": 206,
+  "mean_precision_at_5": 0.11499999999999999,
+  "n_evaluated": 40,
+  "per_sample": [
+    {
+      "resume_category": "Automation Testing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Advocate",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Network Security Engineer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Web Designing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "HR",
+      "relevant_job_count": 1,
+      "recommended_count": 5,
+      "precision_at_5": 0.2,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "SAP Developer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "PMO",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Advocate",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Blockchain",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Database",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Operations Manager",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Advocate",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Testing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "DevOps Engineer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Testing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Arts",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Mechanical Engineer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "DevOps Engineer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "ETL Developer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Automation Testing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Hadoop",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "ETL Developer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Testing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Network Security Engineer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Hadoop",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Automation Testing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Hadoop",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "ETL Developer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Automation Testing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Web Designing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Electrical Engineering",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Civil Engineer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Sales",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Electrical Engineering",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Operations Manager",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "DevOps Engineer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Electrical Engineering",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Java Developer",
+      "relevant_job_count": 2,
+      "recommended_count": 5,
+      "precision_at_5": 0.4,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Testing",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    },
+    {
+      "resume_category": "Advocate",
+      "relevant_job_count": 0,
+      "recommended_count": 5,
+      "precision_at_5": 0.0,
+      "coverage": 0.625
+    }
+  ]
+}
